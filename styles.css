@@ -80,3 +80,9 @@ li:before {
         padding: 30px 15px;
     }
 }
+
+.phonetic {
+    font-size: 95%;
+    font-weight: 200;
+    color: #999;
+}
